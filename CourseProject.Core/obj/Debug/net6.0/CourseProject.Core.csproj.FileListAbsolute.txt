@@ -1,0 +1,11 @@
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\bin\Debug\net6.0\CourseProject.Core.deps.json
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\bin\Debug\net6.0\CourseProject.Core.dll
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\bin\Debug\net6.0\CourseProject.Core.pdb
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.AssemblyInfoInputs.cache
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.AssemblyInfo.cs
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.csproj.CoreCompileInputs.cache
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.dll
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\refint\CourseProject.Core.dll
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\CourseProject.Core.pdb
+C:\KIRILL\CP_GrainStorage.API\CourseProject.Core\obj\Debug\net6.0\ref\CourseProject.Core.dll
