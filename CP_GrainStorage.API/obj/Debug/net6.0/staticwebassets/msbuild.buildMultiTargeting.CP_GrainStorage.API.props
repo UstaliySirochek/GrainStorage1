@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CP_GrainStorage.API.props" />
-</Project>
